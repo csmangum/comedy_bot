@@ -3,5 +3,5 @@ newsapi-python==0.2.6
 giphy-client==1.0.0
 tweepy==3.9.0
 Pillow==10.3.0
-torch==2.6.0
+torch==2.7.1
 torchcontrib==0.0.2
